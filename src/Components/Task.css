@@ -1,0 +1,8 @@
+/* Style for the custom checkbox */
+.task-checkbox {
+  width: 25px;
+  height: 25px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}

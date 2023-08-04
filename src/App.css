@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.custom-h1 {
+  font-size: 40px;
+  color: #b81212;
+  margin-bottom: 20px;
+}
